@@ -7,3 +7,5 @@ Major Libraries used:
 - jsonwebtoken for auth
 - bcrypt
 - mongodb
+
+Test site: https://endurable-adaptable-primrose.glitch.me
